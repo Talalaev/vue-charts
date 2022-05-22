@@ -30,7 +30,6 @@
 
 <script>
   import { chartTypes } from '../chart-types.js';
-  console.log('chartTypes', chartTypes);
 
   export default {
     name: 'CreateChartComponent',
